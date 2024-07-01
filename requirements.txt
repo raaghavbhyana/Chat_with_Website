@@ -9,3 +9,4 @@ streamlit
 langchain-google-genai 
 pillow
 beautifulsoup4
+python-dotenv
